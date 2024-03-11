@@ -18,7 +18,7 @@ Build, Train, and Deploy a Multi-Layer Perceptron to classify handwritten Digits
 
 Experiment with different layer configurations, batch sizes, and training epochs. Understand the role of gradients, backpropagation, activation functions, flattening, and the importance of breaking simmetry with random parameter initialization.
 
-[Annotated Notebook](./multi_layer_perceptron.ipynb) |
+[Blog](./multi_layer_perceptron.md) |
 [Open in Colab](https://colab.research.google.com/github/dcarpintero/deep-learning-notebooks/blob/main/multi_layer_perceptron.ipynb) |
 [Try in HuggingFace Spaces](https://huggingface.co/spaces/dcarpintero/mlp-digit-classifier) 
 
