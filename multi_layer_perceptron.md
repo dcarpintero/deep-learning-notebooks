@@ -298,7 +298,7 @@ plt.show()
 
 
     
-![png](lesson_03.full.mnist.mlp_files/lesson_03.full.mnist.mlp_35_0.png)
+![png](static/mnist.dataset.png)
     
 
 
@@ -434,7 +434,7 @@ plt.show()
 
 
     
-![png](lesson_03.full.mnist.mlp_files/lesson_03.full.mnist.mlp_42_0.png)
+![png](static/mnist.5.png)
     
 
 
