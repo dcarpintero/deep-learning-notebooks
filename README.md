@@ -1,8 +1,18 @@
 # Practical Deep Learning 
 
-Learning projects to get started with Deep Learning
+Learning Projects to Get Started with Deep Learning
 
-## 01. The Annotated Multi-Layer Perceptron
+[![GitHub license](https://img.shields.io/github/license/dcarpintero/deep-learning-notebooks.svg)](https://github.com/dcarpintero/deep-learning-notebooks/blob/master/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/dcarpintero/deep-learning-notebooks.svg)](https://GitHub.com/dcarpintero/deep-learning-notebooks/graphs/contributors/)
+[![GitHub issues](https://img.shields.io/github/issues/dcarpintero/deep-learning-notebooks.svg)](https://GitHub.com/dcarpintero/deep-learning-notebooks/issues/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/dcarpintero/deep-learning-notebooks.svg)](https://GitHub.com/dcarpintero/deep-learning-notebooks/pulls/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
+[![GitHub watchers](https://img.shields.io/github/watchers/dcarpintero/deep-learning-notebooks.svg?style=social&label=Watch)](https://GitHub.com/dcarpintero/deep-learning-notebooks/watchers/)
+[![GitHub forks](https://img.shields.io/github/forks/dcarpintero/deep-learning-notebooks.svg?style=social&label=Fork)](https://GitHub.com/dcarpintero/deep-learning-notebooks/network/)
+[![GitHub stars](https://img.shields.io/github/stars/dcarpintero/deep-learning-notebooks.svg?style=social&label=Star)](https://GitHub.com/dcarpintero/deep-learning-notebooks/stargazers/)
+
+## 01. Annotated Multi-Layer Perceptron
 
 Build, Train, and Deploy a Multi-Layer Perceptron to classify handwritten Digits. It  implements from scratch the following modules: **linear layer**, **relu-activation-function**, **sequential-layer**, **flattening-layer**, **basic optimizer**, and **learner**. The model achieves 95.6% accuracy with `15 training epochs` and `batch size = 64`.
 
