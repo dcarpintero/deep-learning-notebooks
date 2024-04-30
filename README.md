@@ -29,3 +29,9 @@ By the end, you will be able to construct the building blocks of a neural networ
 <p align="center">Garment Classifier deployed to HuggingFace Spaces</p>
 
 ## 02. Quantization
+
+Quantization is a method used to reduce the computational complexity  and memory footprint of a model by representing their weights and activations with low-precision data types like 8-bit integer, instead of the usual 32-bit floating point. This optimization results in less memory storage, and faster operations like matrix multiplication, which is a fundamental operation in the inference process.
+
+The intuition behind quantization is that we can represent floating-point values in a tensor by mapping their range [max, min] into a smaller range [-128, 127], and then linearly distribute all values in between.
+
+
