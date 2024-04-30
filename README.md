@@ -20,10 +20,12 @@ By the end, you will be able to construct the building blocks of a neural networ
 
 [![Blog](https://img.shields.io/badge/Read-Blog-orange)](https://huggingface.co/blog/dcarpintero/building-a-neural-network-for-image-classification)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dcarpintero/nn-image-classifier/blob/main/nb.image.classifier.ipynb)
-[![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-md-dark.svg)](https://huggingface.co/spaces)
+[![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-sm-dark.svg)](https://huggingface.co/spaces/dcarpintero/fashion-image-recognition)
 
 <p align="center">
   <img src="https://cdn-uploads.huggingface.co/production/uploads/64a13b68b14ab77f9e3eb061/bvC2A3Cb2zn81h_neojtH.png">
 </p>
 
 <p align="center">Garment Classifier deployed to HuggingFace Spaces</p>
+
+## 02. Quantization
